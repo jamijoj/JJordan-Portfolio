@@ -1,3 +1,5 @@
+## Welcome!
+
 ## About me
 
 I completed a Master of Arts Management, Data Analytics track, at Carnegie Mellon University, Heinz College of Information Systems and Public Policy in Pittsburgh, PA. My interests include the integration of art and tech, data analysis, and the incorporation of authentic non-Western and Indigenous narratives into the Western museum world.
