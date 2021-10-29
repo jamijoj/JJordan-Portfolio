@@ -9,7 +9,7 @@ Check out some of my work below to see how I've explored the application of digi
 
 ### GIS for Access and the Arts
 
- - [Mapping the British Museum](https://jamijoj.github.io/GIS-Portfolio/mappingthebritishmuseum.html)
+ - [Mapping the British Museum](https://jamijoj.github.io/GIS-Portfolio/)
  - [Analysis of Lack of Transit Access as a Factor to Arts & Culture Low Attendance Rates of Black/African American and Low-Income Communities in Pittsburgh](https://jamijoj.github.io/GIS-Portfolio/project1.html)
  - [Building and deploying a custom Google Map for a non-profit organization](https://jamijoj.github.io/GIS-Portfolio/assignment1.html)
  - [Using ArcGIS Insights to investigate the DEA's pain pill database](https://jamijoj.github.io/GIS-Portfolio/DEApainpilldatabase.html)
