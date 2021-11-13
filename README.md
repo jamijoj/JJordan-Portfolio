@@ -21,6 +21,9 @@ Check out some of my work below to see how I've explored the application of digi
 ### Digital Curation and Online Exhibitions
 - [King Manor Museum's Queens of King Manor Online Exhibition](https://www.kingmanor.org/queens-of-king-manor)
 
+### Strategic Planning through UX Design Methods
+- [King Manor Museum 2021-2024 Strategic Plan](https://static1.squarespace.com/static/5ef3ad9e35f57066d6bf11b9/t/617984bef9638966485a8e4c/1635353793108/KM+Strategic+Plan+2021-24.pdf)
+
 ### Storytelling with Data
  - ["As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus"](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)
  - [Visualizing Government Debt](https://jamijoj.github.io/jamila-portfolio/dataviz2.html)
